@@ -2,7 +2,7 @@
 
 La Arquitectura Hexagonal, tambien conocida como Ports&Adapters, es una arquitectura de software enmarcada dentro de las conocidas como **Clean Arquitectures**. La implementación de una arquitectura de este tipo se basa en la necesidad de realizar las implementaciones necesarias para que la lógica de negocio se pueda comunicar con elementos externos sin necesidad de cambios. 
 
-[![React+Redux Demo](img/Intro.jpg)]
+![React+Redux Demo](img/Intro.jpg)
 
 ## Objetivo
 
@@ -14,7 +14,7 @@ El objetivo final de la Arquitectura Hexagonal es dotar a la aplicación en la qu
 
 En el siguiente grafico, vemos con mayor nivel de detalle la separación de conceptos que propone la implementación de arquitectura hexagonal:
 
-[![React+Redux Demo](img/Completa.jpg)]
+![React+Redux Demo](img/Completa.jpg)
 
 
 La arquitectura hexagonal utiliza la metáfora de los puertos y adaptadores para representar las interacciones entre el interior y el exterior. Para ello, utiliza la siguiente clasificación:
@@ -28,4 +28,4 @@ La arquitectura hexagonal utiliza la metáfora de los puertos y adaptadores para 
 
 En el ejemplo de código de este repositorio se ha implementado esta arquitectura de una forma muy básica para que sirva como concepto.
 
-[![React+Redux Demo](img/UMLBasico.jpg)]
+![React+Redux Demo](img/UMLBasico.jpg)
